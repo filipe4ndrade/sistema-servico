@@ -18,7 +18,7 @@ public class Servico {
     
     @Id //chave primária
     @GeneratedValue(strategy = GenerationType.AUTO) //gera automaticamente
-    private long id;
+    private Long id;
     private String nomeCliente;
     @Temporal(TemporalType.DATE) //formato
     private Date dataInicio = new Date();
