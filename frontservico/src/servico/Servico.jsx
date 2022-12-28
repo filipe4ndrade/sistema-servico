@@ -117,9 +117,9 @@ function Servico() {
       <hr/>
       <hr/>
 
-<button onClick ={buscarTodos} type="button" class="btn btn-primary">Listar Todos</button>&nbsp;&nbsp;
+<button onClick ={buscarTodos} type="button" class="btn btn-success">Listar Todos</button>&nbsp;&nbsp;
 <button onClick ={buscarPagamentosPendentes} type="button" class="btn btn-secondary">Serviços com Pagamento Pendente</button>&nbsp;&nbsp;
-<button onClick ={buscarCancelados} type="button" class="btn btn-success">Serviços Cancelados</button>
+<button onClick ={buscarCancelados} type="button" class="btn btn-warning">Serviços Cancelados</button>
 
       <table class="table">
   <thead>
