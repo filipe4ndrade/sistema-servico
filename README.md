@@ -18,4 +18,6 @@ Ao incluir o valor pago e a data de pagamento, defini-lo como "realizado";
 
 5- Incluir um botão para listar os serviços cancelados;
 
-6- Incluir um botão nos registros da tabela para cancelar um determinado serviço. Alterar o status para "cancelado".
+6- Incluir um botão nos registros da tabela para cancelar um determinado serviço. Alterar o status para "cancelado";
+
+7- Para aqueles serviços com status igual a "cancelado", não mostrar o botão de alterar nem excluir.
